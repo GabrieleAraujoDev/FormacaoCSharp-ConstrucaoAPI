@@ -103,6 +103,5 @@ namespace bytebank_ATENDIMENTO.bytebank.Util
         }
 
 
-
     }
 }

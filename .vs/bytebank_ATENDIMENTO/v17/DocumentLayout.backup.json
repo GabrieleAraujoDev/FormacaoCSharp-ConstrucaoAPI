@@ -7,12 +7,20 @@
       "RelativeMoniker": "D:0:0:{95517C19-CA38-440D-9B63-F03C0B88D349}|bytebank_ATENDIMENTO\\bytebank_ATENDIMENTO.csproj|solutionrelative:bytebank_atendimento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95517C19-CA38-440D-9B63-F03C0B88D349}|bytebank_ATENDIMENTO\\bytebank_ATENDIMENTO.csproj|c:\\users\\gabyc\\documents\\github\\formacaocsharp-construcaoapi\\bytebank_atendimento\\bytebank.util\\listadecontascorrentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95517C19-CA38-440D-9B63-F03C0B88D349}|bytebank_ATENDIMENTO\\bytebank_ATENDIMENTO.csproj|solutionrelative:bytebank_atendimento\\bytebank.util\\listadecontascorrentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95517C19-CA38-440D-9B63-F03C0B88D349}|bytebank_ATENDIMENTO\\bytebank_ATENDIMENTO.csproj|c:\\users\\gabyc\\documents\\github\\formacaocsharp-construcaoapi\\bytebank_atendimento\\bytebank.exceptions\\bytebankexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95517C19-CA38-440D-9B63-F03C0B88D349}|bytebank_ATENDIMENTO\\bytebank_ATENDIMENTO.csproj|solutionrelative:bytebank_atendimento\\bytebank.exceptions\\bytebankexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95517C19-CA38-440D-9B63-F03C0B88D349}|bytebank_ATENDIMENTO\\bytebank_ATENDIMENTO.csproj|c:\\users\\gabyc\\documents\\github\\formacaocsharp-construcaoapi\\bytebank_atendimento\\bytebank.modelos\\conta\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95517C19-CA38-440D-9B63-F03C0B88D349}|bytebank_ATENDIMENTO\\bytebank_ATENDIMENTO.csproj|solutionrelative:bytebank_atendimento\\bytebank.modelos\\conta\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{95517C19-CA38-440D-9B63-F03C0B88D349}|bytebank_ATENDIMENTO\\bytebank_ATENDIMENTO.csproj|c:\\users\\gabyc\\documents\\github\\formacaocsharp-construcaoapi\\bytebank_atendimento\\bytebank.modelos\\conta\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{95517C19-CA38-440D-9B63-F03C0B88D349}|bytebank_ATENDIMENTO\\bytebank_ATENDIMENTO.csproj|solutionrelative:bytebank_atendimento\\bytebank.modelos\\conta\\contacorrente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95517C19-CA38-440D-9B63-F03C0B88D349}|bytebank_ATENDIMENTO\\bytebank_ATENDIMENTO.csproj|c:\\users\\gabyc\\documents\\github\\formacaocsharp-construcaoapi\\bytebank_atendimento\\bytebank.util\\listadecontascorrentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95517C19-CA38-440D-9B63-F03C0B88D349}|bytebank_ATENDIMENTO\\bytebank_ATENDIMENTO.csproj|solutionrelative:bytebank_atendimento\\bytebank.util\\listadecontascorrentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,30 +30,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ByteBankException.cs",
+              "DocumentMoniker": "C:\\Users\\gabyc\\Documents\\GitHub\\FormacaoCSharp-ConstrucaoAPI\\bytebank_ATENDIMENTO\\bytebank.Exceptions\\ByteBankException.cs",
+              "RelativeDocumentMoniker": "bytebank_ATENDIMENTO\\bytebank.Exceptions\\ByteBankException.cs",
+              "ToolTip": "C:\\Users\\gabyc\\Documents\\GitHub\\FormacaoCSharp-ConstrucaoAPI\\bytebank_ATENDIMENTO\\bytebank.Exceptions\\ByteBankException.cs",
+              "RelativeToolTip": "bytebank_ATENDIMENTO\\bytebank.Exceptions\\ByteBankException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T23:08:35.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\gabyc\\Documents\\GitHub\\FormacaoCSharp-ConstrucaoAPI\\bytebank_ATENDIMENTO\\bytebank.Modelos\\Conta\\Cliente.cs",
+              "RelativeDocumentMoniker": "bytebank_ATENDIMENTO\\bytebank.Modelos\\Conta\\Cliente.cs",
+              "ToolTip": "C:\\Users\\gabyc\\Documents\\GitHub\\FormacaoCSharp-ConstrucaoAPI\\bytebank_ATENDIMENTO\\bytebank.Modelos\\Conta\\Cliente.cs",
+              "RelativeToolTip": "bytebank_ATENDIMENTO\\bytebank.Modelos\\Conta\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T22:51:42.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ContaCorrente.cs",
               "DocumentMoniker": "C:\\Users\\gabyc\\Documents\\GitHub\\FormacaoCSharp-ConstrucaoAPI\\bytebank_ATENDIMENTO\\bytebank.Modelos\\Conta\\ContaCorrente.cs",
               "RelativeDocumentMoniker": "bytebank_ATENDIMENTO\\bytebank.Modelos\\Conta\\ContaCorrente.cs",
               "ToolTip": "C:\\Users\\gabyc\\Documents\\GitHub\\FormacaoCSharp-ConstrucaoAPI\\bytebank_ATENDIMENTO\\bytebank.Modelos\\Conta\\ContaCorrente.cs",
               "RelativeToolTip": "bytebank_ATENDIMENTO\\bytebank.Modelos\\Conta\\ContaCorrente.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAkwIsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAkwJcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-23T22:54:29.982Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ListaDeContasCorrentes.cs",
               "DocumentMoniker": "C:\\Users\\gabyc\\Documents\\GitHub\\FormacaoCSharp-ConstrucaoAPI\\bytebank_ATENDIMENTO\\bytebank.Util\\ListaDeContasCorrentes.cs",
               "RelativeDocumentMoniker": "bytebank_ATENDIMENTO\\bytebank.Util\\ListaDeContasCorrentes.cs",
               "ToolTip": "C:\\Users\\gabyc\\Documents\\GitHub\\FormacaoCSharp-ConstrucaoAPI\\bytebank_ATENDIMENTO\\bytebank.Util\\ListaDeContasCorrentes.cs",
               "RelativeToolTip": "bytebank_ATENDIMENTO\\bytebank.Util\\ListaDeContasCorrentes.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAkwGsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAkwGoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-23T22:56:19.845Z",
               "EditorCaption": ""
@@ -58,7 +92,7 @@
               "RelativeDocumentMoniker": "bytebank_ATENDIMENTO\\Program.cs",
               "ToolTip": "C:\\Users\\gabyc\\Documents\\GitHub\\FormacaoCSharp-ConstrucaoAPI\\bytebank_ATENDIMENTO\\Program.cs",
               "RelativeToolTip": "bytebank_ATENDIMENTO\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAQwHUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-23T22:35:32.039Z",
               "EditorCaption": ""
