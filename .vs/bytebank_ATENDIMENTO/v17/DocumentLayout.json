@@ -42,8 +42,7 @@
               "RelativeToolTip": "bytebank_ATENDIMENTO\\bytebank.Exceptions\\ByteBankException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T23:08:35.858Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-06T23:08:35.858Z"
             },
             {
               "$type": "Document",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "bytebank_ATENDIMENTO\\bytebank.Modelos\\Conta\\Cliente.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T22:51:42.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-06T22:51:42.288Z"
             },
             {
               "$type": "Document",
@@ -68,8 +66,7 @@
               "RelativeToolTip": "bytebank_ATENDIMENTO\\bytebank.Modelos\\Conta\\ContaCorrente.cs",
               "ViewState": "AgIAAHIAAAAAAAAAAAAkwJcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T22:54:29.982Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-23T22:54:29.982Z"
             },
             {
               "$type": "Document",
@@ -81,8 +78,7 @@
               "RelativeToolTip": "bytebank_ATENDIMENTO\\bytebank.Util\\ListaDeContasCorrentes.cs",
               "ViewState": "AgIAAEQAAAAAAAAAAAAkwGoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T22:56:19.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-23T22:56:19.845Z"
             },
             {
               "$type": "Document",
@@ -92,7 +88,7 @@
               "RelativeDocumentMoniker": "bytebank_ATENDIMENTO\\Program.cs",
               "ToolTip": "C:\\Users\\gabyc\\Documents\\GitHub\\FormacaoCSharp-ConstrucaoAPI\\bytebank_ATENDIMENTO\\Program.cs",
               "RelativeToolTip": "bytebank_ATENDIMENTO\\Program.cs",
-              "ViewState": "AgIAAMYAAAAAAAAAAAAQwHUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-23T22:35:32.039Z",
               "EditorCaption": ""
